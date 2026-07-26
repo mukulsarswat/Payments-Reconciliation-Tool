@@ -1,6 +1,6 @@
 # Payments Reconciliation Tool (Assessment)
 
-## What this includes
+## What this includes 
 - Synthetic March 2025 platform and settlement datasets generated in code.
 - Four intentionally planted gap types:
   - late settlement into next month
